@@ -1,4 +1,4 @@
-#### Mediawiki Azuresetup
+### Mediawiki Azuresetup
 This Repository have all the required terraform code to deploy the Mediawiki application on Azure cloud.
 ##### Pre-requisites to use this github code :
 - Azure Account with an active subscription.
